@@ -10,8 +10,8 @@ Tableau-
 - Benefits of Tableau compared to Excel
 - How to set up relationships
 - How to import data into Tableau for analysis
-- How to create a dashboard in Tableau
 - How to create calculated fields
+- How to create a dashboard in Tableau
 
 PowerBI-
 - What PowerBI is
