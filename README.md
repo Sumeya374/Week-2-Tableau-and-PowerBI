@@ -15,7 +15,6 @@ PowerBI-
 - What PowerBI is
 - How to work with visuals in PowerBI to summarise data
 - How to create dashboards in PowerBI
-
-
+  
 
 ![EMSI JobChange UK Dashboard](EMSI_JobChange_UK_Dashboard.png)
